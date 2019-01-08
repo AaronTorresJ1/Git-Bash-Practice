@@ -1,8 +1,0 @@
-{{LIST="LLC_BI__Loan_Covenant__c"}}
-{{FIELD="LLC_BI__Loan_Covenant__c.LLC_BI__Loan__r.Name"}}
-{{ENDLIST}}
-
-
-{{LIST="LLC_BI__Loan_Covenant__c"}}
-{{FIELD="LLC_BI__Covenant2__c.LLC_BI__Covenant_Compliances__r.Name"}}
-{{ENDLIST}}
